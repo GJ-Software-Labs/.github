@@ -47,8 +47,40 @@ We specialize in end-to-end delivery across the entire digital ecosystem.
 | 📱 **Mobile Apps** | Premium, cross-platform mobile experiences for iOS and Android built with Flutter. |
 | ⚙️ **Business Automation** | Streamlining operations with custom CRM/ERP systems and internal workflow tools. |
 | 💡 **Technical Consulting** | CTO-level guidance on architecture, tech stack selection, and digital transformation. |
+<br/>
+
+## 💼 Featured Engagements & Solutions
+
+We partner with startups and scale-ups to deliver robust, high-performance software. Here is what we typically build:
 
 <br/>
+
+### 🌐 SaaS & Web Platforms
+> **High-Performance Dashboards & Custom SaaS MVPs**
+> *   📊 **Real-time Dashboards:** Fully responsive dashboards with fast PostgreSQL queries, live charts, and multi-tenant access control.
+> *   💳 **SaaS MVP Development:** Secure user authentication, Stripe subscription billing, and robust, developer-friendly REST/GraphQL APIs.
+> *   ⚡ **Modern Stack:** Built with Next.js, React, and TypeScript for absolute speed and flawless UX.
+
+<br/>
+
+### 📱 Premium Mobile Apps
+> **Cross-Platform iOS & Android Masterpieces**
+> *   🚀 **Premium MVPs:** Built with Flutter for smooth 60fps animations, offline-first sync, and native features.
+> *   🛍️ **Optimized Storefronts:** Fast image lazy-loading, smooth secure checkout flows, and delightful micro-interactions.
+> *   🔔 **Native Capabilities:** Push notifications, background sync, geolocations, and robust platform integrations.
+
+<br/>
+
+### ⚙️ Business Automation
+> **Internal Operations & Operations Optimization**
+> *   🔌 **CRM/ERP Workflow Tools:** Build custom internal databases, automate email/SMS flows, and eliminate manual tasks.
+> *   🔄 **API Integrations:** Seamlessly synchronize data across Shopify, HubSpot, Stripe, Slack, and your internal databases.
+> *   💾 **Database Scaling & Backups:** PostgreSQL query optimization, Redis cache layers, and secure automated backup pipelines.
+
+<br/>
+
+
+---
 
 ## 🛠️ Our Process
 
@@ -72,6 +104,22 @@ We follow a rigorous development lifecycle to ensure every project is a success.
 | :---: | :---: | :---: |
 | Projects Delivered | Years of Experience | Custom Solutions |
 
+</div>
+
+<br/>
+
+---
+
+## 📈 Studio Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GJ-Software-Labs&show_icons=true&theme=tokyonight&bg_color=35,0c0f19,161b30,0c0f19&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&border_color=312e81&border_radius=10&count_private=true&include_all_commits=true" alt="GJ Software Labs Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJ-Software-Labs&layout=compact&theme=tokyonight&bg_color=35,0c0f19,161b30,0c0f19&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&border_color=312e81&border_radius=10" alt="GJ Software Labs Languages" height="180"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GJ-Software-Labs&theme=tokyonight&background=0c0f19&ring=6366f1&fire=818cf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e2e8f0&dates=94a3b8&border_color=312e81&border_radius=10" alt="GJ Software Labs Streak" height="85"/>
 </div>
 
 <br/>
