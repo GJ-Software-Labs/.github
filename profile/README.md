@@ -110,22 +110,6 @@ We follow a rigorous development lifecycle to ensure every project is a success.
 
 ---
 
-## 📈 Studio Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GJ-Software-Labs&show_icons=true&theme=tokyonight&bg_color=35,0c0f19,161b30,0c0f19&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&border_color=312e81&border_radius=10&count_private=true&include_all_commits=true" alt="GJ Software Labs Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJ-Software-Labs&layout=compact&theme=tokyonight&bg_color=35,0c0f19,161b30,0c0f19&title_color=818cf8&icon_color=6366f1&text_color=e2e8f0&border_color=312e81&border_radius=10" alt="GJ Software Labs Languages" height="180"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GJ-Software-Labs&theme=tokyonight&background=0c0f19&ring=6366f1&fire=818cf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e2e8f0&dates=94a3b8&border_color=312e81&border_radius=10" alt="GJ Software Labs Streak" height="85"/>
-</div>
-
-<br/>
-
----
-
 ## 🧰 Tech Stack
 
 We use a modern, battle-tested stack to build reliable and scalable software.
